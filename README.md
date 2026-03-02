@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hello World! I'm Iosef Dawid Arteta Soto
 
-<!--
-**iosefdawidartetasoto-alt/iosefdawidartetasoto-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer in Training** | 🏀 **High Performance Basketball Player** | 🚀 **Entrepreneur**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm an 18-year-old entrepreneur, passionate and disciplined basketball player.
+Currently studying **Software Programming at RIWI** and **Software Development at Universidad de la Costa**.
+
+---
+
+## 📚 Currently Learning
+- Software Programming
+- Software Development
+- Programming Logic
+- Python
+
+---
+
+## 🛠 Working On
+- Improving my programming skills
+- Personal and academic software projects
+
+---
+
+## ❤️ Interests & Passions
+- Basketball 🏀
+- Technology 💻
+- Cycling 🚴
+- Drawing portraits ✏️
+- Rubik's cubes 🧩
+
+---
+
+## 🎯 Fun Facts
+- I can solve Rubik’s cubes
+- I draw realistic portraits
+- I'm a high-performance basketball player
+
+---
+
+## 📫 Let's Connect!
+Always open to learning, collaborating, and growing 🚀
